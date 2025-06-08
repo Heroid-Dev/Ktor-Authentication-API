@@ -34,25 +34,6 @@ A Kotlin backend project built with [Ktor](https://ktor.io/) providing a secure 
 
 ---
 
-## 📂 Project Structure
-src/
-├── routes/
-│ ├── SignUpRoute.kt
-│ ├── SignInRoute.kt
-├── services/
-│ ├── JwtServices.kt
-│ ├── HashingServices.kt
-├── models/
-│ ├── User.kt
-│ ├── SignInRequest.kt
-│ ├── SignUpRequest.kt
-│ ├── TodoTask.kt
-├── repository/
-│ └── Repository.kt
-├── Application.kt
-
----
-
 ## 🔐 Endpoints Overview
 
 ### ✅ Public Routes
